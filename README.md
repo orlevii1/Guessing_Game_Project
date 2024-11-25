@@ -1,4 +1,5 @@
-" 🎮 Guessing Game
+🎮 Guessing Game
+
 A fun and simple number guessing game where the player attempts to guess a random number between 1 and 20.
 
 ✨ Features:
@@ -16,4 +17,3 @@ Choose a difficulty level (Easy, Medium, or Hard).
 Place your bet for the round.
 Guess the number between 1 and 20 within the allowed attempts.
 The game will let you know if your guess is too high or too low, and will display the correct number if you lose.
-"
