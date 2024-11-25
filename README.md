@@ -2,10 +2,10 @@
 
 A fun and simple number guessing game where the player attempts to guess a random number between 1 and 20.
 
+
 ✨ Features:
 
 Three Difficulty Levels:
-
 - Easy (10 attempts)
 - Medium (5 attempts)
 - Hard (3 attempts)
@@ -15,7 +15,6 @@ Place Bets on each round with rewards based on difficulty.
   - Input Validation for error handling.
 
 🕹️ How to Play:
-
 Choose a difficulty level (Easy, Medium, or Hard).
 Place your bet for the round.
 Guess the number between 1 and 20 within the allowed attempts.
